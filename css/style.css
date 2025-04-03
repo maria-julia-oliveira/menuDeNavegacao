@@ -29,6 +29,8 @@ a:hover{
 body{
 width: 100%;
 height: 100%;
-background-color:rgb(246, 201, 196)
+background-color:rgb(249, 214, 210);
+display: flex;
+justify-content: center;
 
 }
