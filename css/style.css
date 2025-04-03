@@ -26,3 +26,9 @@ a:hover{
     border-bottom: 2px solid salmon;
     font-size: 20pt;
 }
+body{
+width: 100%;
+height: 100%;
+background-color:rgb(212, 104, 92)
+
+}
