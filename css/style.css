@@ -1,3 +1,9 @@
+*{
+margin: 0;
+pdding: 0;
+
+}
+
 ul{
     list-style: none;
     display: flex;
@@ -6,6 +12,7 @@ ul{
     justify-content: center;
     height: 60px;
     background-color: pink;
+    border-bottom: 2px solid salmon;
 }
 
 li{
